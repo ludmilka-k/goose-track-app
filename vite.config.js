@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/GooseTrack-group-7/',
+  base: '/goose-track-app/',
 });

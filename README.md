@@ -22,7 +22,7 @@ and hello to streamlined productivity with GooseTrack.
 The frontend part of the web-app is deployed on gh-pages.
 
 ```javascript
-"https://dimitri-y.github.io/GooseTrack-group-7/";
+"https://ludmilka-k.github.io/goose-track-app/";
 ```
 
 ### The technology stack
